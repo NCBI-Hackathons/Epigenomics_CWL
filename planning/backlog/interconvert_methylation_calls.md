@@ -9,3 +9,7 @@ As a bioinformatician, I would like to switch columns and convert DNA methylatio
 - Input: tsv-like files, in whatever layout the test data sets are in
 
 - Output: the desired format for the tools we want to run (e.g. Bsmooth)
+
+## ESTIMATE: 1
+
+## PRIORITY: MUST
