@@ -1,5 +1,5 @@
 cwlVersion: cwl:draft-3
-class: Tool
+class: CommandLineTool
 baseCommand: echo
 inputs:
   - id: message
