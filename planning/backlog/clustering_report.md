@@ -9,3 +9,9 @@ As a biologist, I would like to see a plot of the results of clustering a series
 - Input: cluster labels and distance matrix from earlier clustering.
 
 - Output: HTML/Rmd report with plot(s) of clustering (heatmap, scatterplot) 
+
+- Depends on Clustering BL
+
+## Estimate: 1
+
+## Priority: MUST
