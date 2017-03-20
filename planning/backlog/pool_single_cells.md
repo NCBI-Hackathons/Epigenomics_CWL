@@ -15,3 +15,6 @@ As a bioinformatician, I would like to pool the individual DNA methylation calls
 
 - I have some code I'm willing to share to do this, so it basically just needs to be wrapped in CWL. - Kieran
 
+## ESTIMATE: 2
+
+## PRIORITY: MUST
