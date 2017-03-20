@@ -12,3 +12,7 @@ As a biologist, I would like to see a GREAT report for some regions of interest 
 
 - GREAT is a tool for performing functional analysis of differentially methylated regions. It is web based, but an R API exists. 
 
+## ESTIMATE: 2
+
+## PRIORITY: SHOULD
+
