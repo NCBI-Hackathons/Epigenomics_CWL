@@ -9,3 +9,7 @@ As a biologist, I would like to run LOLA over a series of regions of interest, i
 - Input: regions of interest (BED file)
 
 - Output: not sure what LOLA outputs actually
+
+
+## ESTIMATE: ?
+## PRIORITY: SHOULD
