@@ -13,3 +13,7 @@ As a bioinformatician, I would like to switch columns and convert DNA methylatio
 ## ESTIMATE: 1
 
 ## PRIORITY: MUST
+
+## LOG
+
+interconverter.sh designed to convert GEO methylation counts specifically from Farlik et al. (2015) to methcounts format (chr coordinate strand context methylation_level coverage).
