@@ -46,7 +46,7 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of SCoWL members or the general public. We will not name harassment victims without their affirmative consent.
 
-##Consequences
+## Consequences
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, RESPONSE TEAM may take any action they deem appropriate, up to and including expulsion from all SCoWL spaces and identification of the participant as a harasser to other SCoWL members or the general public.
