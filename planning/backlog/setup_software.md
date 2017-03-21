@@ -15,3 +15,9 @@ As a developer I would like have all the necessary software installed on a share
 
 ## ESTIMATE: 5
 ## PRIORITY: MUST
+
+## Standalone packages to install:
+
+## R packages to install:
+
+GenomeInfoDb, data.table, rtracklayer, pheatmap
