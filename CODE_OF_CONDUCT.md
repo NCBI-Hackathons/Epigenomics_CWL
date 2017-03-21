@@ -1,4 +1,4 @@
-#Code of Conduct
+# Code of Conduct
 
 ## Shorter version
 SCoWL is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
