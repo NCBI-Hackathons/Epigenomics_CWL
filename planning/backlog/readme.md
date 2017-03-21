@@ -13,6 +13,7 @@ Alex:
  - Setup dummy workflow ?
  
 Ben:
+ - Combine sym CpGs    2
  - Clustering          5
  - Clustering Rep      1
  - Run DeepCpG         ?
