@@ -20,4 +20,4 @@ As a developer I would like have all the necessary software installed on a share
 
 ## R packages to install:
 
-GenomeInfoDb, data.table, rtracklayer, pheatmap
+GenomeInfoDb, data.table, rtracklayer, pheatmap, optparse
