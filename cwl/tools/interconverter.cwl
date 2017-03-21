@@ -3,7 +3,7 @@ class: CommandLineTool
 baseCommand: interconverter.sh
 arguments: ["-d", $(runtime.outdir)]
 inputs:
-  toconvert:
+  toConvert:
     type: File
     inputBinding:
       prefix: -i
