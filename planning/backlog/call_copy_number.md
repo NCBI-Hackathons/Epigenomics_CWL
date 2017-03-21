@@ -9,3 +9,7 @@ As a biologist, I would like to use the reads from single-cell DNA methylation d
 - Input: BAM files, one for each cell
 
 - Desired output: copy number calls, by ~5mbp bin, in some lightweight format (eg tsv), per cell
+
+- Estimate: 5
+
+- Priority: COULD

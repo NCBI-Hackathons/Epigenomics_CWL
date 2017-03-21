@@ -17,3 +17,9 @@ There are a few ways of doing this, and it's not clear which is best.
 	- We could also try to use imputed per-CpG data, using Angermeuler's DeepCpG tool
 
 - An alternate method would be to average methylation within individual regions (e.g. individual promoters) and cluster based on that. 
+
+
+##  Estimate: 5
+## Priority: MUST
+
+
