@@ -27,4 +27,4 @@ Example output: GSM1589192_K562.1_2.txt.meth.sym
 
 ## LOG
 
-In order to do this, I will write a CWL wrapper to call `symmetric-cpgs`, a C++ program that is a part of the `methpipe` pipeline.
+In order to do this, I wrote a CWL wrapper to call `symmetric-cpgs`, a C++ program that is a part of the `methpipe` pipeline.
