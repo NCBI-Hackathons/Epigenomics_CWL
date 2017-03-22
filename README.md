@@ -1,4 +1,8 @@
-# A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses
+# Single Cell Reproducible Epigenomics Workflow (SCREW)
+
+A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses
+
+![](logo_design/screw_logo_240.png)
 
 Single-cell whole-genome bisulfite sequencing (SC-WGBS) is currently the most comprehensive method for investigating single-cell epigenomic regulation, with important applications for understanding stem cell differentiation and oncogenesis. However, it is a very new field, and while a handful of tools have been developed, no standard pipeline or framework for handling this data has been created, despite a number of analyses being common across the studies which have been published so far.
 
