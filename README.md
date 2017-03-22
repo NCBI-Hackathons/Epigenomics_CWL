@@ -16,13 +16,17 @@ SCREW is a workflow pipeline implemented through a combination of R and Shell sc
 
 ## Usage
 
+Users should place raw single-cell methylation count data of the type stored in GEO accession GSE65196 in a working directory and be prepared for the size of the data to as much as triple during the course of the run.
+
+Invoke the master CWL script as below:
+
 
 ## Dependencies
 
 If SCREW is used through Docker, all dependencies will be pre-installed on the image. If building from source, the following pipelines and tools are required for use:
 
-+
-+ methpipe (www.github.com/smithlabcode/methpipe)
++ cwltool (https://github.com/common-workflow-language/cwltool)
++ methpipe (https://www.github.com/smithlabcode/methpipe)
 +
 +
 +
