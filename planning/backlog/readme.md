@@ -13,9 +13,6 @@ Alex:
  - Setup dummy workflow ?
  
 Ben:
- - Combine sym CpGs    2
- - Clustering          5
- - Clustering Rep      1
  - Run DeepCpG         ?
  
 Kieran:
@@ -33,3 +30,11 @@ Azhar:
  Ben, Kieran:
  - Toy dataset         1
  - Interconvert TSV    1
+ 
+ ## Sprint 2
+ 
+Ben:
+ - Combine sym CpGs    2
+ - Clustering          5
+ - Clustering Rep      1
+ 
