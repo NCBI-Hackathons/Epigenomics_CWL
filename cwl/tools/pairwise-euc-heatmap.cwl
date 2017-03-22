@@ -1,5 +1,8 @@
 cwlVersion: v1.0
 class: CommandLineTool
+hints:
+  - class: DockerRequirement
+    dockerPull: "quay.io/neksa/screw-tool"
 baseCommand: pairwise-euc-heatmap.R
 inputs:
   pairwiseTable:
