@@ -1,14 +1,14 @@
 cwlVersion: v1.0
 class: CommandLineTool
-baseCommand: interconverter.sh
+baseCommand: symmetriccpgs.sh
 arguments: ["-d", $(runtime.outdir)]
 inputs:
-  toConvert:
+  toCombine:
     type: File
     inputBinding:
       prefix: -i
 outputs:
-  converted:
+  combined:
     type: File
     outputBinding:
-      glob: "*.meth"
+      glob: "*.sym"
