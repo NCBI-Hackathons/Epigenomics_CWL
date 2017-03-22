@@ -1,11 +1,22 @@
-class: CommandLineTool
-baseCommand: echo
+cwlVersion: v1.0
+class: Workflow
 inputs:
-  message:
-    type: string
-    inputBinding:
-      position: 1
+  mainInput: File
+
 outputs:
-  echoed:
-    type: stdout
-    
+  result:
+    type: File
+    outputSource: tool2/out
+
+steps:
+  tool1:
+    run: tool1.cwl
+    in:
+      infile: mainInput
+    out: [out]
+
+  tool2:
+    run: tool2.cwl
+    in:
+      infile: tool1/out
+    out: [out]
