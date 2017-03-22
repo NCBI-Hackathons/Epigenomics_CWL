@@ -20,6 +20,8 @@ Users should place raw single-cell methylation count data of the type stored in 
 
 Invoke the master CWL script as below:
 
+## Workflows
+![](planning/hackathon_results.png)
 
 ## Dependencies
 
