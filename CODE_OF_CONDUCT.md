@@ -1,17 +1,17 @@
 # Code of Conduct
 
 ## Shorter version
-SCoWL is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
-This code of conduct applies to all SCoWL spaces, including the GitHub and Gitter, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
+This project is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
+This code of conduct applies to project spaces, including the GitHub and Gitter, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
 
-Some SCoWL spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some project spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 ## Longer version
-SCoWL is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+The project team is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all SCoWL spaces, including [give a list of your spaces, eg "our mailing lists and IRC channel"], both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
+This code of conduct applies to all project spaces, including [give a list of your spaces, eg "our mailing lists and IRC channel"], both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the RESPONSE TEAM.
 
-Some SCoWL spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+Some project spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 Harassment includes:
 
@@ -19,7 +19,7 @@ Offensive comments related to gender, gender identity and expression, sexual ori
 Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
 Deliberate misgendering or use of ‘dead’ or rejected names.
 Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate.
-Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
+Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop. This includes being mindful that the project name "SCREW" could be construed to have sexual connotations. 
 Threats of violence.
 Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
 Deliberate intimidation.
@@ -31,16 +31,17 @@ Pattern of inappropriate social contact, such as requesting/assuming inappropria
 Continued one-on-one communication after requests to cease.
 Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 Publication of non-harassing private communication.
-SCoWL prioritizes marginalized people’s safety over privileged people’s comfort. RESPONSE TEAM reserves the right not to act on complaints regarding:
+The project prioritizes marginalized people’s safety over privileged people’s comfort. RESPONSE TEAM reserves the right not to act on complaints regarding:
 
 ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
 Communicating in a ‘tone’ you don’t find congenial
 Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
-ReportingEdit
-If you are being harassed by a member of SCoWL, notice that someone else is being harassed, or have any other concerns, please contact the RESPONSE TEAM at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to SCoWL spaces, but if you are being harassed by a member of SCoWL outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by SCoWL members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from SCoWL based on their past behavior, including behavior outside SCoWL spaces and behavior towards people who are not in SCoWL.
+## Reporting
+If you are being harassed by a member of the project team, notice that someone else is being harassed, or have any other concerns, please contact the RESPONSE TEAM at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+
+This code of conduct applies to project spaces, but if you are being harassed by a member of SCoWL outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by SCoWL members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from SCoWL based on their past behavior, including behavior outside project spaces and behavior towards people who are not in the project.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -49,6 +50,6 @@ We will respect confidentiality requests for the purpose of protecting victims o
 ## Consequences
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, RESPONSE TEAM may take any action they deem appropriate, up to and including expulsion from all SCoWL spaces and identification of the participant as a harasser to other SCoWL members or the general public.
+If a participant engages in harassing behavior, RESPONSE TEAM may take any action they deem appropriate, up to and including expulsion from all project spaces and identification of the participant as a harasser to other project members or the general public.
 
  
