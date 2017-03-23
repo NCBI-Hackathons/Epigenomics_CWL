@@ -69,7 +69,7 @@ git clone https://github.com/NCBI-Hackathons/Epigenomics_CWL.git
 #    13  conda config --add channels bioconda
 #    14  conda update
 #    15  conda install abyss
-#    16  conda install sra-tools
+#    16  conda install sra-tools   #### SRA TOOLKIT no longer needed
 #    17  conda install cutadapt
 #    18  conda install bioperl samtools
 #    19  conda install samtools
