@@ -1,17 +1,17 @@
 cwlVersion: v1.0
 class: CommandLineTool
-baseCommand: interconverter.sh
+baseCommand: pairwise-distance.sh
 hints:
   - class: DockerRequirement
     dockerPull: "quay.io/neksa/screw-tool"
-arguments: ["-d", $(runtime.outdir)]
+stdout: pairwise-euc.txt
 inputs:
-  toConvert:
-    type: File
+  pairDirectory:
+    type: Directory
     inputBinding:
       prefix: -i
 outputs:
-  converted:
+  table:
     type: File
     outputBinding:
-      glob: "*.meth"
+      glob: "pairwise-euc.txt"

@@ -1,17 +1,22 @@
 cwlVersion: v1.0
 class: CommandLineTool
-baseCommand: interconverter.sh
 hints:
   - class: DockerRequirement
     dockerPull: "quay.io/neksa/screw-tool"
-arguments: ["-d", $(runtime.outdir)]
+baseCommand: pairwise-euc-heatmap.R
 inputs:
-  toConvert:
+  pairwiseTable:
     type: File
     inputBinding:
+      position: 1
       prefix: -i
+  annotation:
+    type: File?
+    inputBinding:
+      position: 2
+      prefix: -a
 outputs:
-  converted:
+  table:
     type: File
     outputBinding:
-      glob: "*.meth"
+      glob: "*.pdf"
