@@ -2,10 +2,7 @@ cwlVersion: v1.0
 class: CommandLineTool
 baseCommand: tool2.sh
 inputs:
-  - id: infile
-    type: File
-    inputBinding:
-      position: 1
+    infile: File
 outputs:
     out:
         type: File

@@ -1,11 +1,8 @@
 cwlVersion: v1.0
 class: CommandLineTool
-baseCommand: tool1.sh
+baseCommand: hmr
 inputs:
-  - id: infile
-    type: File
-    inputBinding:
-      position: 1
+  infile: File
 outputs:
   out:
     type: File
