@@ -3,6 +3,12 @@ class: Workflow
 inputs:
   mainInput: File
 
+# requirements:
+
+hints:
+  - class: DockerRequirement
+    dockerPull: "quay.io/neksa/screw-tool"
+
 outputs:
   result:
     type: File
