@@ -1,6 +1,9 @@
 cwlVersion: v1.0
 class: CommandLineTool
 baseCommand: tsvToBigWig.R
+hints:
+  - class: DockerRequirement
+    dockerPull: "quay.io/neksa/screw-tool"
 arguments: ["-d", $(runtime.outdir)]
 
 inputs:
