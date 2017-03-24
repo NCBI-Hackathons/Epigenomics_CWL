@@ -41,11 +41,11 @@ Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assum
 ## Reporting
 If you are being harassed by a member of the project team, notice that someone else is being harassed, or have any other concerns, please contact the RESPONSE TEAM at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
-This code of conduct applies to project spaces, but if you are being harassed by a member of SCoWL outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by SCoWL members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from SCoWL based on their past behavior, including behavior outside project spaces and behavior towards people who are not in the project.
+This code of conduct applies to project spaces, but if you are being harassed by a member of the project team outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by project members, especially LEADERSHIP TEAM, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the project based on their past behavior, including behavior outside project spaces and behavior towards people who are not in the project.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
-We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of SCoWL members or the general public. We will not name harassment victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of project members or the general public. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 Participants asked to stop any harassing behavior are expected to comply immediately.
