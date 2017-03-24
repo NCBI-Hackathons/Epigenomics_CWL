@@ -1,3 +1,5 @@
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/NCBI-March-Hackathon-CWL-Team/Lobby)
+
 # Single Cell Reproducible Epigenomics Workflow (SCREW)
 
 A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses
