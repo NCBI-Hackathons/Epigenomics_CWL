@@ -1,5 +1,7 @@
 # Single Cell Reproducible Epigenomics Workflow (SCREW)
 
+**Note : The lastest version of screw can be found at [https://github.com/Epigenomics-Screw/Screw](https://github.com/Epigenomics-Screw/Screw)** 
+
 A CWL Pipeline and Docker Image for Performing Standard Single-Cell DNA Methylation Analyses
 
 ![](logo_design/screw_logo_240.png)
